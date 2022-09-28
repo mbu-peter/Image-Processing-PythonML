@@ -19,3 +19,8 @@ This array represent a collection of color spaces and are refered to as pixels.
 ```python
 !pip install numpy
 ```
+<h3> Create a synthetic img from the Image </h3>
+<p>OutPut</p>
+
+
+![Image](/img/mng.png)
