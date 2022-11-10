@@ -1,7 +1,6 @@
-<h1> IMAGE PROCESSING </h1>
-In this project, I use *Machine Learning* and python to examin
-an image and its properties.
-<h3>IMAGE</h3>
+<h1 style="text-align:center"> IMAGE PROCESSING </h1>
+<p>The project is implemented in python 3.8</p>
+<h3>What is an IMAGE?</h3>
 An image is a visual representation of an actual objects in a two-dimensional array.
 This array represent a collection of color spaces and are refered to as pixels.
 
